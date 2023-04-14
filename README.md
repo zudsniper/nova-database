@@ -1,13 +1,15 @@
-# `nova-database` v0.0.0
+# ☮ `nova-database` v0.0.0 
 
 ### [Nova](https://nova.app) extension providing database management tools and SQL support. 
 _by [@laralove143](https://github.com/laralove143)_   
 
-## FEATURES
+---  
+
+### **`FEATURES`**
 - Nothing. 
 > _[@laralove143](https://github.com/laralove143) did you forgor to push?_  
 
-### TODO
+### **`TO-DO`**
 - implement... it at all.  
 
 ### _See [current milestones](https://github.com/laralove143/nova-database/milestone/1) for planned features._   
@@ -15,33 +17,35 @@ _by [@laralove143](https://github.com/laralove143)_
   
 ## DATABASES  
 
-### SUPPORTED
+### 🍊 SUPPORTED
 
 > _The extension uses [Prisma](https://www.prisma.io/) to interact with your database, **so check [here](https://www.prisma.io/docs/reference/database-reference/supported-databases) for supported databases**._    
 
-### TESTED
+### ✅ TESTED
 
 - `undefined`
 
-*Please create an issue or PR if you've had success with a database to add it to the list*
+*Please [create an issue](https://github.com/laralove143/nova-database/issues/new/choose) or PR if you've had success with a database to add it to the list.*  
 
-### Databases Requiring Special Handling
+#### DBs Requiring Special Handling
 
 Some databases require you to edit schemas by hand, the schemas are in the Prisma project folders
 
-- [ ] `MongoDB`: See [here](https://www.prisma.io/docs/guides/database/mongodb#differences-to-consider)  
-> because @laralove143 is a hater  
+- [ ] [`MongoDB`](https://www.prisma.io/docs/guides/database/mongodb#differences-to-consider)  
+> _because [@laralove143](https://github.com/laralove143) is a hater PROBABLY_    
 
-- [ ] `CockroachDB`: See [here](https://www.prisma.io/docs/guides/database/cockroachdb#differences-to-consider)
-- [ ] `PlanetScale`: See [here](https://www.prisma.io/docs/guides/database/planetscale#differences-to-consider)
+- [ ] [`CockroachDB`](https://www.prisma.io/docs/guides/database/cockroachdb#differences-to-consider)  
+- [ ] [`PlanetScale`](https://www.prisma.io/docs/guides/database/planetscale#differences-to-consider)
+ 
+ <br>
 
-## CONTACT  
+# CONTACT  
 #### Feature Requests? Bugs? Support? Contributions?   
 
 You name it, I'm always looking for community feedback from anyone who uses my work!   
 _All I ask is that you attribute me if you do so._  
 
-## LICENSE  
+# LICENSE  
 This project is licensed under the MIT License.  
 The specific license document can be found in the [LICENSE](/LICENSE) file.   
 
