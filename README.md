@@ -1,20 +1,25 @@
-# Nova Database
+# `nova-database` v0.0.0
 
-[Nova](https://nova.app) extension providing database management tools and SQL support
+### [Nova](https://nova.app) extension providing database management tools and SQL support. 
+_by [@laralove143](https://github.com/laralove143)_   
 
-## Features
+## FEATURES
+- Nothing. 
+> _[@laralove143](https://github.com/laralove143) did you forgor to push?_  
 
-### To-Do
+### TODO
+- implement... it at all.  
 
-See [this](https://github.com/laralove143/nova-database/milestone/1) for planned features
+### _See [current milestones](https://github.com/laralove143/nova-database/milestone/1) for planned features._   
+> _If a feature you're looking for which isn't listed there, [please open an issue](https://github.com/laralove143/nova-database/issues/new/choose)!_    
+  
+## DATABASES  
 
-If a feature you're looking for is not listed there, please open an issue
+### SUPPORTED
 
-## Supported Databases
+> _The extension uses [Prisma](https://www.prisma.io/) to interact with your database, **so check [here](https://www.prisma.io/docs/reference/database-reference/supported-databases) for supported databases**._    
 
-The extension uses [Prisma](https://www.prisma.io/) to interact with your database, so see [this](https://www.prisma.io/docs/reference/database-reference/supported-databases) for supported databases
-
-### Tested Databases
+### TESTED
 
 - `undefined`
 
@@ -24,10 +29,30 @@ The extension uses [Prisma](https://www.prisma.io/) to interact with your databa
 
 Some databases require you to edit schemas by hand, the schemas are in the Prisma project folders
 
-- MongoDB: See [this](https://www.prisma.io/docs/guides/database/mongodb#differences-to-consider)
-- CockroachDB: See [this](https://www.prisma.io/docs/guides/database/cockroachdb#differences-to-consider)
-- PlanetScale: See [this](https://www.prisma.io/docs/guides/database/planetscale#differences-to-consider)
+- [ ] `MongoDB`: See [here](https://www.prisma.io/docs/guides/database/mongodb#differences-to-consider)  
+> because @laralove143 is a hater  
 
-## Feature Requests? Bugs? Support? Contributions? You name it
+- [ ] `CockroachDB`: See [here](https://www.prisma.io/docs/guides/database/cockroachdb#differences-to-consider)
+- [ ] `PlanetScale`: See [here](https://www.prisma.io/docs/guides/database/planetscale#differences-to-consider)
 
-Looking forward to any feedback you have!
+## CONTACT  
+#### Feature Requests? Bugs? Support? Contributions?   
+
+You name it, I'm always looking for community feedback from anyone who uses my work!   
+_All I ask is that you attribute me if you do so._  
+
+## LICENSE  
+This project is licensed under the MIT License.  
+The specific license document can be found in the [LICENSE](/LICENSE) file.   
+
+---  
+
+### [`@laralove143`](https://github.com/laralove143)  
+_`Rust` enthusiast. Skilled problem solver.[^1]_   
+
+> _[@laralove143](https://github.com/laralove143) You should probably add some more to this list -- like enby, drummer, etc._  
+  
+
+
+[^1]: If you think this is arrogant, I will assure that, due to the fact that _they did not write this_, it is not intended that way. It is simply true. - [@zudsniper](https://github.com/zudsniper)   
+
